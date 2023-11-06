@@ -14,7 +14,7 @@ public class project13 {
         int number1 = scanner.nextInt();
         int number2 = scanner.nextInt();
 
-        // 입력 받은 값을 출력합니다.
+        // 입력 받은 값을 출력합니다ddd.
         System.out.println("입력한 정수: " + number1 + number2);
 
         // Scanner를 닫습니다.
