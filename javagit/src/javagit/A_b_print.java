@@ -1,8 +1,4 @@
 package javagit;
-
-import java.io.Closeable;
-import java.security.PublicKey;
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class A_b_print {
