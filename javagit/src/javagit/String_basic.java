@@ -35,7 +35,7 @@ public class String_basic {
         System.out.println("Original String: " + originalString);
         System.out.println("Swapped Case: " + swappedCaseString);
         
-        
+        scanner.close();
     }
 }
 

@@ -325,5 +325,6 @@ class Example37 {
 		if(b==2) {
 			
 		}
+		scan.close();
 	}
 }
