@@ -23,7 +23,7 @@ public class 베르트랑_공준 {
 	        for(int num : prime) {
 	        	int count = 0;
 	        	for(int j = num; j <= 2*num; j++ ) {
-	        		if(j!=num && isPrime(j)) {
+	        		if(j!=num && isPrime(j)) { //자기자신 제외 그리고 소수일때
 	        			count ++;
 	        		}
 	        	}
